@@ -1,0 +1,16 @@
+body{
+    background-color:aquamarine; 
+}
+h2{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+}
